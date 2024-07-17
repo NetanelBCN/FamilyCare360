@@ -226,8 +226,6 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 ## License
 Copyright (c) 2024 Netanel Boris Cohen Niazov | Noa Gilboa | Yarden Cherry | Roei Hakmon | Daniel Suliman
 
- licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Acknowledgements
 Thank you to all contributors and supporters of this project.
 
