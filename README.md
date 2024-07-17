@@ -224,7 +224,7 @@ Access the H2 Console at `http://localhost:8084/h2-console` after running the ap
 Contributions are welcome! Please submit a pull request or open an issue for any changes or suggestions.
 
 ## License
-This project is
+Copyright (c) 2024 Netanel Boris Cohen Niazov | Noa Gilboa | Yarden Cherry | Roei Hakmon | Daniel Suliman
 
  licensed under the MIT License. See the `LICENSE` file for more details.
 
